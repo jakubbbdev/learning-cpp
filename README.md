@@ -56,7 +56,7 @@ cpp_learning_project/
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/jakubbbdev/learning-cpp.git
 cd cpp_learning_project
 ```
 
